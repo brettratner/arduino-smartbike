@@ -1,3 +1,11 @@
+/*Created by Michael Young and Brett Ratner
+  This project allows a bike to have blinkers
+  using and led matrix that will show a right 
+  or left arrow depending on the direction the
+  bike rider wants to turn. After the rider has 
+  made the turn the blinker will then automatically
+  shut off emulating a blinker of a car
+*/
 // neopixel
 #include <Adafruit_NeoPixel.h>
 #include <avr/power.h>
